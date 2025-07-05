@@ -54,7 +54,7 @@ function App() {
                 <Brain size={24} />
               </div>
               <div className="logo-text">
-                <h1>MatchMate AI</h1>
+                <h1>JobIntel AI</h1>
                 <p>Resume Analyzer & Job Matcher</p>
               </div>
             </div>
@@ -196,7 +196,7 @@ function App() {
           <div className="footer-content">
             <div className="footer-logo">
               <Brain size={20} />
-              <span>MatchMate AI</span>
+              <span>JobIntel AI</span>
             </div>
             <p className="footer-text">
               Powered by advanced machine learning and natural language processing
