@@ -66,7 +66,7 @@ const FileUpload: React.FC<FileUploadProps> = ({ onAnalysisComplete, onError, on
     formData.append('file', selectedFile);
 
     try {
-      const response = await fetch('http://localhost:5000/upload', {
+      const response = await fetch('https://jobintel-ai-backend-production.up.railway.app/upload', {
         method: 'POST',
         body: formData,
       });
@@ -94,7 +94,7 @@ const FileUpload: React.FC<FileUploadProps> = ({ onAnalysisComplete, onError, on
     onLoadingChange(true);
 
     try {
-      const response = await fetch('http://localhost:5000/analyze_text', {
+      const response = await fetch('https://jobintel-ai-backend-production.up.railway.app/analyze_text', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
