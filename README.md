@@ -1,6 +1,127 @@
 # JobIntel-AI
 
-**JobIntel-AI** is an end-to-end AI-powered platform that matches candidates to the most relevant jobs using advanced NLP, machine learning, and semantic similarity techniques. It also provides skill extraction, recommendations, and an intelligent dashboard for recruiters and job seekers.
+<p align="center">
+  <img src="public/brain.png" alt="JobIntel-AI Logo" width="120"/>
+</p>
+
+<h1 align="center">JobIntel-AI</h1>
+
+<p align="center">
+  <b>AI-Powered Job Recommendation Platform</b><br>
+  <i>Unlock your career potential with intelligent, personalized job matches.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20By-React%20%26%20TypeScript-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Enabled-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build-Vite-yellow?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Overview
+
+JobIntel-AI is a next-generation job recommendation platform leveraging advanced AI to match users with the best career opportunities. Upload your resume, visualize your skills, and receive tailored job suggestions—all in a beautiful, fast, and secure web app.
+
+---
+
+## 🎨 Unique Design
+
+```
+      _______        _        _        _ _ _ 
+     |__   __|      | |      | |      | (_) |
+        | | ___  ___| |_ __ _| | ___  | |_| |
+        | |/ _ \/ __| __/ _` | |/ _ \ | | | |
+        | |  __/\__ \ || (_| | |  __/ | | | |
+        |_|\___||___/\__\__,_|_|\___| |_|_|_|
+```
+
+<p align="center">
+  <img src="public/vite.svg" alt="Vite Logo" width="60"/>
+</p>
+
+Modern UI, interactive skill clouds, and smooth animations for a delightful user experience.
+
+---
+
+## 🧠 Features
+
+- **AI Resume Parsing**: Upload your resume and let AI extract your skills.
+- **Skill Cloud Visualization**: See your strengths in a dynamic cloud.
+- **Personalized Job Recommendations**: Get jobs tailored to your profile.
+- **Fast & Secure**: Built with Vite, React, and TypeScript for speed and reliability.
+- **Intuitive File Upload**: Drag-and-drop or browse to upload your resume.
+
+---
+
+## 📦 Tech Stack
+
+- **Frontend**: React, TypeScript, Vite
+- **UI/UX**: CSS Modules, Custom SVGs
+- **AI/ML**: (Integrate with backend for recommendations)
+- **Testing**: Jest, React Testing Library
+
+---
+
+## 🛠️ Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/your-org/JobIntel-AI.git
+cd JobIntel-AI
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) to view the app.
+
+---
+
+## 📁 Project Structure
+
+```
+JobIntel-AI/
+├── public/           # Static assets (logos, SVGs)
+├── src/
+│   ├── components/   # React components
+│   ├── types/        # TypeScript types
+│   ├── App.tsx       # Main app
+│   └── main.tsx      # Entry point
+├── package.json
+├── vite.config.ts
+└── README.md
+```
+
+---
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="public/brain.png" alt="Skill Cloud Screenshot" width="300"/>
+</p>
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Meta%20AI-blueviolet?style=for-the-badge" />
+</p>
 
 ---
 
