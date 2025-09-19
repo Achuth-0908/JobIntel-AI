@@ -215,11 +215,11 @@ python app.py
 
 ### 🖼️ **Platform Preview**
 
-| Feature | Preview |
-|---------|----------|
-| **Skill Cloud** | ![Skill Cloud](https://i.imgur.com/skill-cloud-demo.gif) |
-| **Job Matching** | ![Job Matching](https://i.imgur.com/job-matching-demo.gif) |
-| **Resume Upload** | ![Resume Upload](https://i.imgur.com/resume-upload-demo.gif) |
+| Feature |
+|---------|
+| **Skill Cloud** |
+| **Job Matching** |
+| **Resume Upload** | 
 
 </div>
 
@@ -360,36 +360,3 @@ docker build -t jobintel-backend ./backend
 - [ ] 🎓 **Learning Recommendations** - Skill development paths
 
 ---
-
-## � License & Legal
-
-<div align="center">
-
-**JobIntel-AI** is open-source software licensed under the MIT License.
-
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![GDPR Compliant](https://img.shields.io/badge/GDPR-Compliant-green?style=for-the-badge)](#privacy)
-[![Privacy First](https://img.shields.io/badge/Privacy-First-blue?style=for-the-badge)](#privacy)
-
-</div>
-
----
-
-<div align="center">
-
-### 🏆 **Built with Excellence**
-
-*Engineered for the future of career intelligence*
-
-[![Made with Love](https://img.shields.io/badge/Made%20with%20❤️%20by-Achuth%200908-ff69b4?style=for-the-badge)](https://github.com/Achuth-0908)
-[![Powered by AI](https://img.shields.io/badge/Powered%20by-Artificial%20Intelligence-00d4aa?style=for-the-badge)](#)
-
----
-
-**⭐ If you find JobIntel-AI helpful, please give it a star! ⭐**
-
-[![GitHub stars](https://img.shields.io/github/stars/Achuth-0908/JobIntel-AI?style=social)](https://github.com/Achuth-0908/JobIntel-AI/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Achuth-0908/JobIntel-AI?style=social)](https://github.com/Achuth-0908/JobIntel-AI/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/Achuth-0908/JobIntel-AI?style=social)](https://github.com/Achuth-0908/JobIntel-AI/watchers)
-
-</div>
